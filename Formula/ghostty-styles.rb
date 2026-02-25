@@ -1,8 +1,8 @@
 class GhosttyStyles < Formula
   desc "TUI for browsing, previewing, and applying Ghostty terminal themes"
   homepage "https://github.com/mcfearsome/ghostty.styles.tui"
-  url "https://github.com/mcfearsome/ghostty.styles.tui/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "baae4bbb70d42455ab6bbb397429b58054fa358233b2129cd284e396791e3cc3"
+  url "https://github.com/mcfearsome/ghostty.styles.tui/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "f7512ec97b8898ef81d711e584fd563f9dabda02a4ca40d175ae241441db1e23"
   license "MIT"
 
   depends_on "rust" => :build
